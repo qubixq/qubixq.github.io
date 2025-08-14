@@ -5,6 +5,8 @@ plugins:
   - jekyll-sitemap
   - jekyll/tagging
 
+url: "https://qubixq.github.io"
+baseurl: ""
 # Multiple bookshops can be used on one website,
 # or different production / staging locations.
 bookshop_locations:
